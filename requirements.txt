@@ -9,3 +9,4 @@ pydantic-ai
 fuzzywuzzy
 nest-asyncio
 gunicorn
+python-dotenv
