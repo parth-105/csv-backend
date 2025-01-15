@@ -8,3 +8,4 @@ pydantic
 pydantic-ai
 fuzzywuzzy
 nest-asyncio
+gunicorn
