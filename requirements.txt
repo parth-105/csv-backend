@@ -10,3 +10,4 @@ fuzzywuzzy
 nest-asyncio
 gunicorn
 python-dotenv
+werkzeug
