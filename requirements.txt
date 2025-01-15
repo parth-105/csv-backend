@@ -1,0 +1,10 @@
+flask
+flask-cors
+pandas
+asyncio
+dataclasses
+typing
+pydantic
+pydantic-ai
+fuzzywuzzy
+nest-asyncio
