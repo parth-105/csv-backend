@@ -39,7 +39,7 @@ class DatasetAnalysisResult(BaseModel):
 
 
 # Create the Dataset Analysis Agent with Gemini
-model = GeminiModel('gemini-1.5-flash')  # Replace with your Gemini API key
+model = GeminiModel('gemini-1.5-flash' , api_key=os.getenv("GOOGLE_API_KEY"))  # Replace with your Gemini API key
 
 dataset_analysis_agent = Agent(
     model=model,  # Use the Gemini model
